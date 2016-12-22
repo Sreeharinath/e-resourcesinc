@@ -1,0 +1,8 @@
+12/22/2016
+
+a. Make clone from your fork repo
+b. make some changes 
+c. push to forked repo
+d. merge the fork change to main repo :
+
+

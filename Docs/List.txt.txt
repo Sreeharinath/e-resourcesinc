@@ -3,3 +3,4 @@
 3. installenv.sh
 4. initscriptforjenkins.sh
 5. Added the Steps for Exercise-Dec22-2016 in File named Exercise-Dec22-2016
+6.
